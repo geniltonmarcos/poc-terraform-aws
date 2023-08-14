@@ -1,1 +1,2 @@
-# poc-terraform-aws
+# PoC using Terraform and AWS
+
