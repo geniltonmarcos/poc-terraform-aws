@@ -2,9 +2,3 @@ PlayerId,"Name", "Team", "Position", "Height(inches)", "Weight(lbs)", "Age"
 2,"Adam Donachie", "BAL", "Catcher", 74, 180, 22.99
 3,"Paul Bako", "BAL", "Catcher", 74, 215, 34.69
 4,Ramon Hernandez, "BAL", "Catcher", 72, 210, 30.78
-5,Kevin Millar, "BAL", "First Baseman", 72, 210, 35.43
-6,Chris Gomez, "BAL", "First Baseman", 73, 188, 35.71
-7,Brian Roberts, "BAL", "Second Baseman", 69, 176, 29.39
-8,Miguel Tejada, "BAL", "Shortstop", 69, 209, 30.77
-9,Melvin Mora, "BAL", "Third Baseman", 71, 200, 35.07
-10,	Aubrey Huff, "BAL", "Third Baseman", 76, 231, 30.19
